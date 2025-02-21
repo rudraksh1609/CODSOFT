@@ -1,8 +1,36 @@
-# CODSOFT
-Exciting news! I've been accepted for a virtual internship in Java Programming with CodSoft! Starting on June 25, 2024, this four-week journey will be an amazing opportunity to dive into programming, enhance my skills, and tackle real-world projects.
+☕ Java Projects
+📌 Overview
+This repository contains three Java projects. Each project demonstrates key programming concepts, including OOP, user interaction, and GUI development.
 
-I'm incredibly grateful for this chance to collaborate with CodSoft's innovative team and immerse myself in the world of tech. Throughout this internship, I look forward to learning from experienced professionals, gaining hands-on experience, and contributing to meaningful projects that push the boundaries of what I can achieve.
+🎯 Projects
 
-Here's to embracing new challenges, expanding my knowledge, and propelling my career forward! I can't wait to see what lies ahead in this exciting journey.
+1️⃣ Number Guessing Game 🎲
+A simple command-line game where the user guesses a randomly generated number.
+Features:
+Random number generation
+Input validation
+Attempts tracking
 
-#CodSoft #JavaProgramming #VirtualInternship #TechLearning #CareerGrowth
+2️⃣ Student Marks Calculator 📊
+A Java-based application that calculates students' total marks, average percentage, and grades.
+Features:
+User input for multiple subjects
+Grade calculation logic
+Console and GUI implementation
+
+3️⃣ ATM Machine Simulation 🏦
+A Java program that simulates basic ATM functionalities like withdrawals, deposits, and balance inquiries.
+Features:
+User authentication
+Transaction handling
+GUI-based implementation
+
+🛠️ Technologies Used
+Java ☕
+Swing / AWT (for GUI-based projects)
+OOP Principles
+Exception Handling & Input Validation
+
+🔥 Future Enhancements
+Add database integration for persistent data storage
+Implement a web-based UI using JavaFX or Spring Boo
